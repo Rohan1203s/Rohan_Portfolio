@@ -1,0 +1,21 @@
+.bg-img {
+  background-image: linear-gradient(to right, rgba(51, 196, 204), rgba(242, 162, 234));
+}
+h3 {
+  color:RGB(252, 15, 98);
+}
+
+.colors {
+     color:black;
+}
+.purple {
+     color:grey;
+     font-weight: bold;
+}
+h4 {
+  color:pink);
+   text-align: center;
+}
+.bg-img2 {
+  background-image: linear-gradient(to right, rgba(242, 162, 234), rgba(230, 109, 10, 0.83));
+}
